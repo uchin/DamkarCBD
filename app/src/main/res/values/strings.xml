@@ -2,4 +2,12 @@
     <string name="app_name" translatable="false">CBDdamkar</string>
     <string name="splash_title">DAMKAR HISTORY</string>
     <string name="splash_sub">Cepat, Tanggap, Akurat Melaporkan</string>
+    <string name="member_login">Member Login</string>
+    <string name="username">username</string>
+    <string name="filterAlphanumeric">"@.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_-#*"</string>
+    <string name="login">LOGIN</string>
+    <string name="hint_pass">password</string>
+    <string name="privacy_policy">Dengan LOGIN berarti Anda setuju dengan Term of Service dan Privacy Policy</string>
+    <string name="forgot_password">Forgot Pasword ?</string>
+    <string name="paragraph">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
 </resources>
